@@ -1,2 +1,2 @@
 # javascript-calculator
-Calculator with Javascript - Today's date..
+Calculator with Javascript - Today's date...
